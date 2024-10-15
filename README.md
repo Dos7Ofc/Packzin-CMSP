@@ -1,9 +1,9 @@
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=0d1117&center=true&vCenter=true&repeat=false&width=435&height=30&lines=CMSP+Plataforma+Hacks"/>
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=30&lines=CMSP+Plataforma+Hacks"/>
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=0d1117&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Packzin+CMSP"/>
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Packzin+CMSP"/>
 
 ---
 
-<p align="center"><strong>PAckzin CMSP</strong></p>
+<p align="center"><strong>Packzin CMSP</strong></p>
 <p align="center">Aqui, você irá encontrar scripts/websites para automatizar as tarefas do CMSP e de outras plataformas como Khan Academy, Alura e Speak.</p>
 <br><br>
 <p align="center"><strong>Para começar a usar o cheetos, basta clicar no botão abaixo da plataforma que deseja utilizar</strong></p>
