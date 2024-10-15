@@ -4,9 +4,9 @@
 ---
 
 <p align="center"><strong>CMSP Plataforma Hacks</strong></p>
-<p align="center">Neste repositório, você irá encontrar scripts/websites para automatizar as tarefas do CMSP e de outras plataformas como Khan Academy, Alura e Speak.</p>
+<p align="center">Aqui, você irá encontrar scripts/websites para automatizar as tarefas do CMSP e de outras plataformas como Khan Academy, Alura e Speak.</p>
 <br><br>
-<p align="center"><strong>Para começar a usar os scripts/websites, basta clicar no botão abaixo da plataforma que deseja utilizar</strong></p>
+<p align="center"><strong>Para começar a usar o cheetos, basta clicar no botão abaixo da plataforma que deseja utilizar</strong></p>
 
 ---
 
@@ -27,4 +27,4 @@
 ---
 
 > [!IMPORTANT]  
-> Todos os scripts agora estão no website do CMSP Plataformas Hacks. Para copiar o script, basta entrar no site e clicar no botão com o nome da plataforma desejada, e o script será copiado automaticamente.
+> Todos os scripts agora estão no website do Pack. Para copiar o script, basta entrar no site e clicar no botão com o nome da plataforma desejada, e o script será copiado automaticamente.
