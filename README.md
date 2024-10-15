@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center"><strong>CMSP Plataforma Hacks</strong></p>
+<p align="center"><strong>PAckzin CMSP</strong></p>
 <p align="center">Aqui, você irá encontrar scripts/websites para automatizar as tarefas do CMSP e de outras plataformas como Khan Academy, Alura e Speak.</p>
 <br><br>
 <p align="center"><strong>Para começar a usar o cheetos, basta clicar no botão abaixo da plataforma que deseja utilizar</strong></p>
